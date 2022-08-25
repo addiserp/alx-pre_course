@@ -1,1 +1,1 @@
-My first git assignment
+Starting to code today, so cool
